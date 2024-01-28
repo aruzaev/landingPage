@@ -40,8 +40,7 @@ header {
 }
 
 .hero-image {
-  max-width: 30%;
-  height: auto;
+  max-height: 350px;
 }
 
 .hero-text {
@@ -50,6 +49,9 @@ header {
   font-weight: 400;
 }
 
+.hero-content {
+  display: flex;
+}
 
 footer {
   display: flex;
